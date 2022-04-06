@@ -54,7 +54,7 @@ const config = require("./config");
                     
                                                             fs.appendFile(
                                                                 path.join("outputs", userData.Username, type, `${new Date(message.created).getFullYear()}`, `${title}.txt`),
-                                                                `Title: ${message.subject}\nSender: ${message.sender.name}\nDate: ${new Date(message.created).toLocaleDateString()}\n\nMessage:\n${message.body}\n`,
+                                                                `Title: ${message.subject}\nSender: ${message.sender.name}\nDate: ${new Date(message.created).toLocaleDateString()}\n\nMessage:\n${message.body}\n\n`,
                                                                 "utf8",
                                                                 (err) => {
             
