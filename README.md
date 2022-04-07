@@ -1,6 +1,6 @@
 # Roblox Message Downloader
 This tool was created due to the [recent news sent out by Roblox](https://cartar.is-a.dev/u/PKmxHDx).
-On April 22nd, 2022, all private messages sent and received before January 1st, 2019 will be deleted.
+On April 22nd, 2022, all private messages sent by Roblox before January 1st, 2019 will be deleted.
 
 This tool will download **all** of your Roblox Private Messages, including the ones you've sent, received and archived.
 
